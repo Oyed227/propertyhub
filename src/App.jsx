@@ -17,7 +17,7 @@ import MyInquiries from "./pages/MyInquiries";
 import NotFound from "./pages/NotFound";
 
 import Footer from "./components/layout/Footer";
-import NavBar from "./components/layout/NavBar";
+import NavBar from "./components/layout/Navbar";
 
 const pageVariants = {
   initial: { opacity: 0, y: 20 },
